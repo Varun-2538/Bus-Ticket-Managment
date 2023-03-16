@@ -19,6 +19,3 @@ bhilai#bilaspur#2:00AM#5#500
 amhemdabad#lucknow#3:00AM#43#500
 patna#raipur#2:00PM#5#300
 
-
-
-
